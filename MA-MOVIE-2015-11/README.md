@@ -1,4 +1,4 @@
-![Mode 18 annotated](MA-MOVIE-2015-11/annotated_m01_merged_0048.png)
+![Mode 18 annotated](annotated_m01_merged_0048.png)
 
 These images, and the associated YouTube video (https://www.youtube.com/watch?v=kOLdmPmTTkk) 
 were rendered with Gaussview, and then manipulated with the shellscripts you will find here to generate annotated 
