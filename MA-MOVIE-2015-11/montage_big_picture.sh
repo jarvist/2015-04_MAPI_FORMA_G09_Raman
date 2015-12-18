@@ -16,3 +16,8 @@ montage -tile 3x6 m*_v2_0048.png -geometry 964x964 MA_MolecularVibrations_Projec
 
 #1926x2288 --> 963x1144
 montage -tile 3x6 annotated_m*_v1_0048.png -geometry 963x1144 MA_MolecularVibrations_Projected_big_picture_view1-annotated.png
+
+# For combining with the cage modes, 6x3 landscape would be better I think.
+montage -tile 6x3 annotated_m*_v1_0048.png -geometry 963x1144 MA_MolecularVibrations_Projected_big_picture_view1-annotated_6x3.png
+
+
